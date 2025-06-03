@@ -15,7 +15,7 @@ def choix_aleatoire_joueur(j):
     j.remove(random_player)
     return random_player
 
-
+ 
 
 """------------------------PROGRAMME PRINCIPAL------------------------------------------------------"""
 def nombre_joueur_et_demander_pseudo():
